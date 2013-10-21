@@ -10,12 +10,12 @@ LOG_FILE = 'InterfacedDebug.log'
 
 PLEX_SERVER_HOST = 'localhost:32400'                  	# your host:port
 
-HAVE_TRAKT = True                               		# True or False
+HAVE_TRAKT = False                              		# True or False
 TRAKT_USERNAME = 'INSERT Your Username Here'            # your username
 TRAKT_PASSWORD = 'INSERT Your Password Here'            # your password
 TRAKT_API = 'INSERT Your API Key Here' 			        # your api key
 
-HAVE_PUSHOVER = True                               		# True or False
+HAVE_PUSHOVER = False                               	# True or False
 PUSHOVER_SCRIPTAPI = 'INSERT Your API Key Here'         # your script api key
 PUSHOVER_USERKEY = 'INSERT Your USER API Key Here'   	# your user api key
 # END USER INPUTS
